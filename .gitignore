@@ -475,3 +475,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/AIChatBot.sln
+/AIChatBot/obj/Debug/net7.0/AIChatBot.csproj.AssemblyReference.cache
+/.vs/AIChatBot/DesignTimeBuild/.dtbcache.v2
+/.vs/AIChatBot/FileContentIndex/f6720d8b-391d-4e28-b5df-005476cfab49.vsidx
+/.vs/AIChatBot/FileContentIndex/read.lock
+/.vs/AIChatBot/v17/.suo
